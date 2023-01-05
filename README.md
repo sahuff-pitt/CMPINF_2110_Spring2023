@@ -43,10 +43,10 @@ Dataset.<br>
 Lab results in HTML format.<br>
 
 * __week_01_airfoil.ipynb__<br>
-Lab 1 Juypter Notebook.<br>
+Lab 1 Jupyter Notebook.<br>
 
 * __week_01_explore_tidytuesday.html__<br>
 Lab results in HTML format.<br>
 
 * __week_01_explore_tidytuesday.ipynb__<br>
-Lab 1 Juypter Notebook.<br>
+Lab 1 Jupyter Notebook.<br>
