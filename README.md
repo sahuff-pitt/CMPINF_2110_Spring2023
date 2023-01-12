@@ -40,13 +40,13 @@ Material details for the week 1 lab.
 Dataset.<br>
 
 * __week_01_airfoil.html__<br>
-Lab results in HTML format.<br>
+Lab results in HTML format for airfoil dataset.<br>
 
 * __week_01_airfoil.ipynb__<br>
-Lab 1 Jupyter Notebook.<br>
+Lab 1 Jupyter Notebook for airfoil dataset.<br>
 
-* __week_01_explore_tidytuesday.html__<br>
-Lab results in HTML format.<br>
+* __week_01_scoobydoo.html__<br>
+Lab results in HTML format for scoobydoo dataset.<br>
 
-* __week_01_explore_tidytuesday.ipynb__<br>
-Lab 1 Jupyter Notebook.<br>
+* __week_01_scoobydoo.ipynb__<br>
+Lab 1 Jupyter Notebook for scoobydoo dataset.<br>
