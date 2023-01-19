@@ -7,6 +7,7 @@ In-lecture programming examples.
 > * [Setup](#setup)
 > * [Labs](#labs)
 >   * [Week 1](#week1)
+>   * [Week 2](#week2)
 
 # <a id="setup"></a>__Setup__
 
@@ -49,4 +50,23 @@ Lab 1 Jupyter Notebook for airfoil dataset.<br>
 Lab results in HTML format for scoobydoo dataset.<br>
 
 * __week_01_scoobydoo.ipynb__<br>
+Lab 1 Jupyter Notebook for scoobydoo dataset.<br>
+
+## <a id="week2"></a>__Week 2__
+
+Material details for the week 2 lab.
+
+* __week_02_shoe_counts.xlsx__<br>
+Dataset for Oakland shoes.<br>
+
+* __week_02_tidying_shoes.html__<br>
+Lab results in HTML format for Oakland shoes dataset.<br>
+
+* __week_02_tidying_shoes.ipynb__<br>
+Lab 2 Jupyter Notebook for Oakland shoes dataset.<br>
+
+* __week_02_covid19.html__<br>
+Lab results in HTML format for scoobydoo dataset.<br>
+
+* __week_02_covid19.ipynb__<br>
 Lab 1 Jupyter Notebook for scoobydoo dataset.<br>
