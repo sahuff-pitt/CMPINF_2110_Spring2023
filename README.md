@@ -70,3 +70,22 @@ Lab results in HTML format for scoobydoo dataset.<br>
 
 * __week_02_covid19.ipynb__<br>
 Lab 1 Jupyter Notebook for scoobydoo dataset.<br>
+
+## <a id="week3"></a>__Week 3__
+
+Material details for the week 3 lab.
+
+* __airlines.csv__<br>
+Dataset for airlines.<br>
+
+* __planes.csv__<br>
+Dataset for planes.<br>
+
+* __summer_flights.csv__<br>
+Dataset for summer flights.<br>
+
+* __week_03_joins.ipynb__<br>
+Lab 3 Jupyter Notebook for joins.<br>
+
+* __week_03_joins.html__<br>
+Lab results in HTML format for joins.<br>
