@@ -8,6 +8,9 @@ In-lecture programming examples.
 > * [Labs](#labs)
 >   * [Week 1](#week1)
 >   * [Week 2](#week2)
+>   * [Week 3](#week3)
+>   * [Week 4](#week4)
+>   * [Week 5](#week5)
 
 # <a id="setup"></a>__Setup__
 
@@ -89,3 +92,41 @@ Lab 3 Jupyter Notebook for joins.<br>
 
 * __week_03_joins.html__<br>
 Lab results in HTML format for joins.<br>
+
+## <a id="week4"></a>__Week 4__
+
+Material details for the week 4 lab.
+
+* __location_info_table.csv__<br>
+Dataset for location_info_table.<br>
+
+* __make_shoes_database.sql__<br>
+SQL from lecture.<br>
+
+* __shoe_info_table.csv__<br>
+Dataset for shoe_info_table.<br>
+
+* __shoe_per_day_table.csv__<br>
+Dataset for shoe_per_day_table.<br>
+
+* __shoes_long_format.csv__<br>
+Dataset for shoes_long_format.<br>
+
+* __week_04_compare_python_and_mysql.ipynb__<br>
+Lab 4 Jupyter Notebook for comparison of Python & Mysql.<br>
+
+* __week_04_compare_python_and_mysql.html__<br>
+Lab results in HTML format comparison of Python & Mysql.<br>
+
+* __week_04_revisit_the_shoe_example.ipynb__<br>
+Lab 4 Jupyter Notebook for version of shoe example.<br>
+
+* __week_04_week_04_revisit_the_shoe_example.html__<br>
+Lab results in HTML format comparison of shoe example.<br>
+
+## <a id="week5"></a>__Week 5__
+
+Material details for the week 5 lab.
+
+* __week_05_joining_grouping_mysql.sql__<br>
+Lab 5 Mysql script.<br>
