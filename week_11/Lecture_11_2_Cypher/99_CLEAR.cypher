@@ -1,0 +1,2 @@
+//99-CLEAR
+MATCH (n) DETACH DELETE n;
